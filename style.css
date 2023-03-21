@@ -40,6 +40,12 @@ table {
     height: 100%;
     text-align:center;
   }
+  .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
  
   th {
     font-family: 'Shrikhand', cursive;;
