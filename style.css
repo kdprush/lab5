@@ -8,6 +8,10 @@ table {
   
   h1 {
     font-size: 5em;
+    font-family: shrikhand;
+    font-weight: 100;
+    height: 100%;
+    text-align:center;
   }
   img {
     border-style: outset;
