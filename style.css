@@ -17,7 +17,6 @@ table {
     border-style: outset;
     border-width: 5px;
     border-color: rgb(87, 0, 128);
-    float: center;
     height: 75px;
   }
   th,
@@ -32,7 +31,7 @@ table {
     height: 100vh;
     background-size: cover;
     position: relative;
-    margin: 10;
+    margin: 10px;
     color: rgb(255, 255, 255);
     background-image: url(../images/space.jpg);
     font-family: shrikhand;
